@@ -1,5 +1,5 @@
 module.exports = {
-    database: 'mongodb://localhost:27017/taskmanager',
+    database: 'mongodb://localhost:27017/taskmanager6',
     secret: '$ecreate12345',
     enableConsoleLog: true,
     enableFileLog:false,
